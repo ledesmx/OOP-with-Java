@@ -6,7 +6,7 @@ public class User {
     // Here we declare admins as static
     public static List<User> admins;
 
-    // Here we declre this method as static
+    // Here we declare this method as static
     public static void print_admins_name() {
         for (User admin : admins) {
             System.out.println(admin.get_name());
