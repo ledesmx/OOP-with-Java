@@ -26,13 +26,13 @@ You can check the code and explanation of every topic.
 First clone the repository.
 ```bash
 $ git clone https://github.com/ledesmx/OOP-with-Java
-cd OOP-with-Java
+$ cd OOP-with-Java
 ```
 
 Then, go to the topic of your choice, build it, and run it.
 ```bash
-cd 1-introduction  
-javac Introduction.java && java Introduction
+$ cd 1-introduction  
+$ javac Introduction.java && java Introduction
 ```
 
 For a further explanation check out the video of Caleb Curry of [OOP in Java](https://www.youtube.com/watch?v=Af3s3KsxStY)
